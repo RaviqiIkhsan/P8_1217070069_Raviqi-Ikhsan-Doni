@@ -1,3 +1,5 @@
+#Raviqi Ikhsan Doni
+#1217070069
 import numpy as np
 import matplotlib.pyplot as plt
 import cv2
